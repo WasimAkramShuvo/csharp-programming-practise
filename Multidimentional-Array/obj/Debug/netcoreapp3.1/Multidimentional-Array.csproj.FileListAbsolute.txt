@@ -1,0 +1,13 @@
+F:\C#\DEV SKILL (C#)\CODES\Practise\Multidimentional-Array\bin\Debug\netcoreapp3.1\Multidimentional-Array.exe
+F:\C#\DEV SKILL (C#)\CODES\Practise\Multidimentional-Array\bin\Debug\netcoreapp3.1\Multidimentional-Array.deps.json
+F:\C#\DEV SKILL (C#)\CODES\Practise\Multidimentional-Array\bin\Debug\netcoreapp3.1\Multidimentional-Array.runtimeconfig.json
+F:\C#\DEV SKILL (C#)\CODES\Practise\Multidimentional-Array\bin\Debug\netcoreapp3.1\Multidimentional-Array.runtimeconfig.dev.json
+F:\C#\DEV SKILL (C#)\CODES\Practise\Multidimentional-Array\bin\Debug\netcoreapp3.1\Multidimentional-Array.dll
+F:\C#\DEV SKILL (C#)\CODES\Practise\Multidimentional-Array\bin\Debug\netcoreapp3.1\Multidimentional-Array.pdb
+F:\C#\DEV SKILL (C#)\CODES\Practise\Multidimentional-Array\obj\Debug\netcoreapp3.1\Multidimentional-Array.csprojAssemblyReference.cache
+F:\C#\DEV SKILL (C#)\CODES\Practise\Multidimentional-Array\obj\Debug\netcoreapp3.1\Multidimentional-Array.AssemblyInfoInputs.cache
+F:\C#\DEV SKILL (C#)\CODES\Practise\Multidimentional-Array\obj\Debug\netcoreapp3.1\Multidimentional-Array.AssemblyInfo.cs
+F:\C#\DEV SKILL (C#)\CODES\Practise\Multidimentional-Array\obj\Debug\netcoreapp3.1\Multidimentional-Array.csproj.CoreCompileInputs.cache
+F:\C#\DEV SKILL (C#)\CODES\Practise\Multidimentional-Array\obj\Debug\netcoreapp3.1\Multidimentional-Array.dll
+F:\C#\DEV SKILL (C#)\CODES\Practise\Multidimentional-Array\obj\Debug\netcoreapp3.1\Multidimentional-Array.pdb
+F:\C#\DEV SKILL (C#)\CODES\Practise\Multidimentional-Array\obj\Debug\netcoreapp3.1\Multidimentional-Array.genruntimeconfig.cache

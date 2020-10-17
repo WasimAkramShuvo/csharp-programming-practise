@@ -1,0 +1,13 @@
+F:\C#\DEV SKILL (C#)\CODES\Practise\Statements\bin\Debug\netcoreapp3.1\Statements.exe
+F:\C#\DEV SKILL (C#)\CODES\Practise\Statements\bin\Debug\netcoreapp3.1\Statements.deps.json
+F:\C#\DEV SKILL (C#)\CODES\Practise\Statements\bin\Debug\netcoreapp3.1\Statements.runtimeconfig.json
+F:\C#\DEV SKILL (C#)\CODES\Practise\Statements\bin\Debug\netcoreapp3.1\Statements.runtimeconfig.dev.json
+F:\C#\DEV SKILL (C#)\CODES\Practise\Statements\bin\Debug\netcoreapp3.1\Statements.dll
+F:\C#\DEV SKILL (C#)\CODES\Practise\Statements\bin\Debug\netcoreapp3.1\Statements.pdb
+F:\C#\DEV SKILL (C#)\CODES\Practise\Statements\obj\Debug\netcoreapp3.1\Statements.csprojAssemblyReference.cache
+F:\C#\DEV SKILL (C#)\CODES\Practise\Statements\obj\Debug\netcoreapp3.1\Statements.AssemblyInfoInputs.cache
+F:\C#\DEV SKILL (C#)\CODES\Practise\Statements\obj\Debug\netcoreapp3.1\Statements.AssemblyInfo.cs
+F:\C#\DEV SKILL (C#)\CODES\Practise\Statements\obj\Debug\netcoreapp3.1\Statements.csproj.CoreCompileInputs.cache
+F:\C#\DEV SKILL (C#)\CODES\Practise\Statements\obj\Debug\netcoreapp3.1\Statements.dll
+F:\C#\DEV SKILL (C#)\CODES\Practise\Statements\obj\Debug\netcoreapp3.1\Statements.pdb
+F:\C#\DEV SKILL (C#)\CODES\Practise\Statements\obj\Debug\netcoreapp3.1\Statements.genruntimeconfig.cache

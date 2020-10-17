@@ -1,0 +1,13 @@
+F:\C#\DEV SKILL (C#)\CODES\Practise\Operator\bin\Debug\netcoreapp3.1\Operator.exe
+F:\C#\DEV SKILL (C#)\CODES\Practise\Operator\bin\Debug\netcoreapp3.1\Operator.deps.json
+F:\C#\DEV SKILL (C#)\CODES\Practise\Operator\bin\Debug\netcoreapp3.1\Operator.runtimeconfig.json
+F:\C#\DEV SKILL (C#)\CODES\Practise\Operator\bin\Debug\netcoreapp3.1\Operator.runtimeconfig.dev.json
+F:\C#\DEV SKILL (C#)\CODES\Practise\Operator\bin\Debug\netcoreapp3.1\Operator.dll
+F:\C#\DEV SKILL (C#)\CODES\Practise\Operator\bin\Debug\netcoreapp3.1\Operator.pdb
+F:\C#\DEV SKILL (C#)\CODES\Practise\Operator\obj\Debug\netcoreapp3.1\Operator.csprojAssemblyReference.cache
+F:\C#\DEV SKILL (C#)\CODES\Practise\Operator\obj\Debug\netcoreapp3.1\Operator.AssemblyInfoInputs.cache
+F:\C#\DEV SKILL (C#)\CODES\Practise\Operator\obj\Debug\netcoreapp3.1\Operator.AssemblyInfo.cs
+F:\C#\DEV SKILL (C#)\CODES\Practise\Operator\obj\Debug\netcoreapp3.1\Operator.csproj.CoreCompileInputs.cache
+F:\C#\DEV SKILL (C#)\CODES\Practise\Operator\obj\Debug\netcoreapp3.1\Operator.dll
+F:\C#\DEV SKILL (C#)\CODES\Practise\Operator\obj\Debug\netcoreapp3.1\Operator.pdb
+F:\C#\DEV SKILL (C#)\CODES\Practise\Operator\obj\Debug\netcoreapp3.1\Operator.genruntimeconfig.cache

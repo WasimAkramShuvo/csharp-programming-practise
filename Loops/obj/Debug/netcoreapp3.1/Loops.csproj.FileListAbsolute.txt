@@ -1,0 +1,13 @@
+F:\C#\DEV SKILL (C#)\CODES\Practise\Loops\bin\Debug\netcoreapp3.1\Loops.exe
+F:\C#\DEV SKILL (C#)\CODES\Practise\Loops\bin\Debug\netcoreapp3.1\Loops.deps.json
+F:\C#\DEV SKILL (C#)\CODES\Practise\Loops\bin\Debug\netcoreapp3.1\Loops.runtimeconfig.json
+F:\C#\DEV SKILL (C#)\CODES\Practise\Loops\bin\Debug\netcoreapp3.1\Loops.runtimeconfig.dev.json
+F:\C#\DEV SKILL (C#)\CODES\Practise\Loops\bin\Debug\netcoreapp3.1\Loops.dll
+F:\C#\DEV SKILL (C#)\CODES\Practise\Loops\bin\Debug\netcoreapp3.1\Loops.pdb
+F:\C#\DEV SKILL (C#)\CODES\Practise\Loops\obj\Debug\netcoreapp3.1\Loops.csprojAssemblyReference.cache
+F:\C#\DEV SKILL (C#)\CODES\Practise\Loops\obj\Debug\netcoreapp3.1\Loops.AssemblyInfoInputs.cache
+F:\C#\DEV SKILL (C#)\CODES\Practise\Loops\obj\Debug\netcoreapp3.1\Loops.AssemblyInfo.cs
+F:\C#\DEV SKILL (C#)\CODES\Practise\Loops\obj\Debug\netcoreapp3.1\Loops.csproj.CoreCompileInputs.cache
+F:\C#\DEV SKILL (C#)\CODES\Practise\Loops\obj\Debug\netcoreapp3.1\Loops.dll
+F:\C#\DEV SKILL (C#)\CODES\Practise\Loops\obj\Debug\netcoreapp3.1\Loops.pdb
+F:\C#\DEV SKILL (C#)\CODES\Practise\Loops\obj\Debug\netcoreapp3.1\Loops.genruntimeconfig.cache

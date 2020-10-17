@@ -1,0 +1,12 @@
+F:\C#\DEV SKILL (C#)\CODES\Practise\Data Type\bin\Debug\netcoreapp3.1\Data Type.exe
+F:\C#\DEV SKILL (C#)\CODES\Practise\Data Type\bin\Debug\netcoreapp3.1\Data Type.deps.json
+F:\C#\DEV SKILL (C#)\CODES\Practise\Data Type\bin\Debug\netcoreapp3.1\Data Type.runtimeconfig.json
+F:\C#\DEV SKILL (C#)\CODES\Practise\Data Type\bin\Debug\netcoreapp3.1\Data Type.runtimeconfig.dev.json
+F:\C#\DEV SKILL (C#)\CODES\Practise\Data Type\bin\Debug\netcoreapp3.1\Data Type.dll
+F:\C#\DEV SKILL (C#)\CODES\Practise\Data Type\bin\Debug\netcoreapp3.1\Data Type.pdb
+F:\C#\DEV SKILL (C#)\CODES\Practise\Data Type\obj\Debug\netcoreapp3.1\Data Type.AssemblyInfoInputs.cache
+F:\C#\DEV SKILL (C#)\CODES\Practise\Data Type\obj\Debug\netcoreapp3.1\Data Type.AssemblyInfo.cs
+F:\C#\DEV SKILL (C#)\CODES\Practise\Data Type\obj\Debug\netcoreapp3.1\Data Type.csproj.CoreCompileInputs.cache
+F:\C#\DEV SKILL (C#)\CODES\Practise\Data Type\obj\Debug\netcoreapp3.1\Data Type.dll
+F:\C#\DEV SKILL (C#)\CODES\Practise\Data Type\obj\Debug\netcoreapp3.1\Data Type.pdb
+F:\C#\DEV SKILL (C#)\CODES\Practise\Data Type\obj\Debug\netcoreapp3.1\Data Type.genruntimeconfig.cache
